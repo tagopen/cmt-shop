@@ -1,0 +1,43 @@
+table.header {
+  background-color: #333;
+}
+.main-text-color {
+  color: #fff;
+}
+a {
+  color: #ea852d;
+  font-weight: 700;
+  text-decoration: underline;
+}
+.h1 {
+  margin: 0;
+  font-size: 20px;
+}
+a:hover, a:focus {
+  color: #EACC2D;
+}
+.h2 {
+  font-size: 18px;
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #ea852d;
+}
+.content-text {
+  font-size: 14px;
+}
+.content-mark {
+  font-size: 13px;
+  font-weight: 600;
+  text-decoration: underline;
+}
+.footer {
+  background-color: #333;
+}
+.footer-description {
+  margin-bottom: 5px;
+}
+
+table.body th.footer-bg {
+  padding-right: 0 !important;
+  padding-bottom: 0 !important;
+}
